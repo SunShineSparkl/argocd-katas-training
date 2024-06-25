@@ -1,5 +1,5 @@
 apiVersion: apps/v1
-kinds: Deployment
+kosnd: Deployment
 metadata:
   creationTimestamp: null
   labels:
