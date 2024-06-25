@@ -4,3 +4,5 @@ persistence:
   enabled: false
 jenkinsPassword: student
 jenkinsUser: admin
+readinessProbe:
+  enabled: false
